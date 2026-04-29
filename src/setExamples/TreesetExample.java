@@ -23,7 +23,7 @@ public class TreesetExample {
         s1.add(167);
         s1.add(45);
         s1.add(12);
-//        s1.add(null);
+        s1.add(null);
 
         System.out.println("The set After adding values:"+s1);
 
